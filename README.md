@@ -4,6 +4,5 @@
 
 ## Table of contents
 
-1. Best practices
-   1. [React](react.md)
-   1. [TypeScript](typescript.md)
+1. [React](react.md)
+1. [TypeScript](typescript.md)
