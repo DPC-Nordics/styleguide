@@ -1,6 +1,6 @@
 # DPC StyleGuide - Typescript
 
-[Back to home](/index)
+[Back to home](index)
 
 To get started, following resources are a good read.
 
