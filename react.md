@@ -1,6 +1,6 @@
 # DPC StyleGuide - React
 
-[Back to home](index)
+[Back to home](README.md)
 
 To get started, following resources are a good read.
 
